@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahianzhang&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 ### 你好 hello こんにちは 안녕하십니까 Bonjour
 热衷于开源，敏捷实践者 Twitter [@AhianZhang](https://twitter.com/AhianZhang) 欢迎交流。
 
