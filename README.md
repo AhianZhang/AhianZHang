@@ -19,6 +19,7 @@
 
 - [elasticsearch-analytic](https://github.com/yinliwork/elasticsearch-analytic): 解决使用 ElasticSearch 做 **数据分析** 的场景下，使用更便捷的方式构造查询语句。
 - [j2go-cheatSheet](https://github.com/AhianZhang/j2go-cheatSheet): 给 Javaer 快速上手 Golang 做参考
+- [somethings](https://github.com/AhianZhang/somethings): AI 写作助手，调用性价比较高的 deepseek 接口，能够优化样式和做一定的扩展。
 
 ---
 
